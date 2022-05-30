@@ -1,0 +1,4 @@
+artifact_location: file:///Users/beebo/code/yuqingwang98/TaxiFareModel2/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: test_experiment

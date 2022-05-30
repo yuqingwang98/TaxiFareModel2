@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/beebo/code/yuqingwang98/TaxiFareModel2/mlruns/1/657abecc8bd74276bfde8e3b4d3b436a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 657abecc8bd74276bfde8e3b4d3b436a
+run_uuid: 657abecc8bd74276bfde8e3b4d3b436a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653911637453
+status: 1
+tags: []
+user_id: unknown
